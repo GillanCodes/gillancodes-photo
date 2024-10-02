@@ -1,4 +1,6 @@
 import Routes from "./Routes/index";
+import './Styles/index.scss';
+
 
 function App() {
 
